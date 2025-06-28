@@ -1,7 +1,6 @@
 # Smart-Sorting-Transfer-Learning-for-Identifying-Rotten-Fruits-and-Vegetables
-Smart Sorting is an AI-powered image classification system designed to automatically evaluate the freshness of fruits and vegetables. By leveraging transfer learning with MobileNetV2, the system can accurately classify produce as fresh or rotten using image 
-
-
+Smart Sorting is a lightweight, deep learning–based tool that simplifies the task of identifying spoiled fruits and vegetables from images. By combining transfer learning with an intuitive web interface, it delivers instant freshness insights—helping users make quick, confident decisions and cut down on food waste
+ 
 ## Features
 
 - Predicts freshness from images in real time   
