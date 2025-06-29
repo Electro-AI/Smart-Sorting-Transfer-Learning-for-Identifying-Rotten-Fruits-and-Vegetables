@@ -4,7 +4,7 @@ Smart Sorting is a lightweight, deep learning–based tool that simplifies the t
 ## Features
 
 - Predicts freshness from images in real time   
-- Lightweight interface using HTML, CSS, and JavaScript  
+- Lightweight interface using HTML
 - Flask backend with a pre-trained MobileNetV2 model  
  
 ## How to Run
@@ -17,7 +17,7 @@ Smart Sorting is a lightweight, deep learning–based tool that simplifies the t
 
 ## Project Highlights
 
-- Model Accuracy: 94%  
+- Model Accuracy: 95.6%  
 - Frameworks: Flask, TensorFlow, Keras  
 - Deployment: Web app and offline executable  
 - Target Users: Vendors, consumers, warehouse managers  
